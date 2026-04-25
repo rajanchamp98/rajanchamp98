@@ -2,27 +2,27 @@ name: generate snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:         # allows manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      # Step 1: Generate snake SVG
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: rajanchamp98
           outputs: |
             dist/github-contribution-grid-snake.svg
 
+      # Step 2: Push to output branch using PAT (fix for 403)
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PAT_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          force_orphan: true
