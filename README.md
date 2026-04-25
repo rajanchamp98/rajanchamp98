@@ -43,9 +43,10 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/rajanchamp98/rajanchamp98/blob/output/github-contribution-grid-snake.svg)
-
----
+<p align="center">
+  <img src="https://github.com/rajanchamp98/rajanchamp98/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+  <img src="https://github.com/rajanchamp98/rajanchamp98/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+</p>
 
 <!-- ================= TECH STACK ================= -->
 
