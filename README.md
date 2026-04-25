@@ -43,9 +43,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajanchamp98/rajanchamp98/output/github-contribution-grid-snake.svg"/>
-</p>
+![snake gif](https://github.com/rajanchamp98/rajanchamp98/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
