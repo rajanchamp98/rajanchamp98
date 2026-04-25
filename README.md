@@ -16,7 +16,7 @@
 
 <!-- ================= DASHBOARD ================= -->
 
-## 📊 Dashboard
+##  Dashboard
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajanchamp98&theme=github_dark"/>
@@ -31,7 +31,7 @@
 
 <!-- ================= ACTIVITY ================= -->
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajanchamp98&theme=github-dark&hide_border=true&area=true"/>
@@ -41,7 +41,7 @@
 
 <!-- ================= SNAKE ================= -->
 
-## 🐍 Contribution Snake
+## Contribution 
 
 <p align="center">
   <img src="https://github.com/rajanchamp98/rajanchamp98/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
@@ -50,30 +50,13 @@
 
 <!-- ================= TECH STACK ================= -->
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,git,docker" />
 </p>
 
 ---
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 What I Build
-
-<div align="center">
-
-🔹 Full Stack MERN Applications
-🔹 REST APIs & Backend Systems
-🔹 Dashboards & Admin Panels
-🔹 Scalable & Production-ready Apps
-
-</div>
-
----
-
-<!-- ================= IDENTITY ================= -->
 
 ## 🧠 Developer Identity
 
